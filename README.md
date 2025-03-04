@@ -22,10 +22,12 @@ This is a Python application built using Tkinter that allows users to view saved
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/wifi-password-viewer.git
-2. Navigate to the project directory 
+2. Navigate to the project directory:
+   ```bash
    cd wifi-password-viewer
 
-3. Run the application:
+4. Run the application:
+   ```bash
    python pass.py
 
 
