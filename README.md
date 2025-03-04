@@ -6,7 +6,7 @@ This is a Python application built using Tkinter that allows users to view saved
 
 - Retrieve and display saved Wi-Fi passwords
 - Search for specific Wi-Fi profiles (SSID)
-- Toggle between Dark and Light themes
+- Toggle between Dark Navy and Burgundy themes
 - Progress bar for fetching passwords with color change based on progress
 - Real-time updates and threaded fetching for non-blocking UI
 - Pulsating effect when the progress bar reaches 100%
